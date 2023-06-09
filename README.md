@@ -28,7 +28,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DaisyGeraldine&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DaisyGeraldine&theme=radical&hide_border=false)<br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dfunn1k&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaisyGeraldine&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaisyGeraldine&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet

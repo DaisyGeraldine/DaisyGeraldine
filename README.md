@@ -29,7 +29,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=DaisyGeraldine&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DaisyGeraldine&theme=radical&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaisyGeraldine&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaisyGeraldine&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaisyGeraldine&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@DaisyChipana)](https://github.com/VishwaGauravIn/github-twitter-card-embed)

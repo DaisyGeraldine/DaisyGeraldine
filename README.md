@@ -3,7 +3,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/DaisyGeraldine/DaisyGeraldine/output/snake.svg" alt="Snake animation" /></a>
+  <img  src="https://raw.githubusercontent.com/DaisyGeraldine/DaisyGeraldine/output/snake.svg" alt="Snake animation"/>
 </div>
 
 

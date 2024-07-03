@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm 🌼Daisy Geraldine</h1>
-<h3 align="center">A passionate student of Full-stack from Perú</h3>
+<h3 align="center">Software Developer</h3>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/DaisyGeraldine/DaisyGeraldine/output/snake.svg" alt="Snake animation" /></a>
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daisygeraldine&label=Profile%20views&color=0e75b6&style=flat" alt="daisygeraldine" /> </p>
 

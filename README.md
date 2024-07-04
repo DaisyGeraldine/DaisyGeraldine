@@ -1,57 +1,142 @@
-<h1 align="center">Hi 👋, I'm 🌼Daisy Geraldine</h1>
-<h3 align="center">Software Developer</h3>
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=DaisyGeraldine&icon=7&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm 🌼Daisy Geraldine</h1></summary>
+  </ul>
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Software Developer</h2></summary>
+  </ul>
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--- snake -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/DaisyGeraldine/DaisyGeraldine/output/snake.svg" alt="Snake animation" />
 </div>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daisygeraldine&label=Profile%20views&color=0e75b6&style=flat" alt="daisygeraldine" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daisygeraldine" alt="daisygeraldine" /></a> </p>
-
 # 💫 About Me:
 🌱 I’m currently learning Flutter<br><br>👨‍💻 All of my projects are available at https://github.com/DaisyGeraldine<br><br>📝 I regularly write articles on medium.com<br><br>💬 Ask me about MYSQL, Python, JavaScript and Angular.<br><br>📫 How to reach me dchipanalapa@gmail.com<br><br>⚡ Fun fact I love to see the sky every time I leave my house, if I see more colors, I am moved.
 
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+  <table align="center">
+  <tr border="none">
+  <td width="50%" align="center">
+    
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DaisyGeraldine&theme=tokyonight&show_icons=true&count_private=true" />
+    <br></br>
+    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DaisyGeraldine&theme=tokyonight&hide_border=false" /> 
+  </td>
+  
+  <td width="50%" align="center">
+  
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DaisyGeraldine&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    
+    </td>
+  </tr>
+  </table>
+  <!--- stats (end) -->
+  
+  <!--- trophy (start) -->
+  <div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+        <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=DaisyGeraldine&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      </a>
+  </div>
+  <!--- trophy (start) -->
+  
+  </p>        
+<!--- stats (end) -->
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/DaisyGeraldine) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#0165) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dage_cl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daisychlapa) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@chipanal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@DaisyChipana) 
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+<!--icons and links-->
+<p align="center">
+  <a href="https://linkedin.com/in/daisychlapa" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://twitter.com/@DaisyChipana" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+  <a href="https://instagram.com/dage_cl" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+  <a href="https://medium.com/@@chipanal" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+  <a href="https://discord.gg/#0165" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+</p>
 
-# 💻 technologies to be learned
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,git,angular,emacs,c,css,postgres,flask,github,html,css,js,linux,md,materialui,mysql,postman,py,tailwind,ts,vscode,notion,trello&perline=14" />
+  </a>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DaisyGeraldine&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DaisyGeraldine&theme=radical&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaisyGeraldine&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaisyGeraldine&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies to be learned👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@DaisyChipana)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<!--tech stack to be learned icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,aws,firebase,vue,go,docker&perline=14" />
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Latest Tweet 🐦</h2></summary>
+  </ul>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DaisyGeraldine&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=DaisyChipana&theme=dracula&icon=hashtag&time=true&response=true&border=true"/></a>
+</p>
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Random Dev Quote ✍️</h2></summary>
+  </ul>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=DaisyGeraldine&icon=7&color=10)](https://visitcount.itsvg.in)
+<div align="center">
+  <img  align="center" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"/>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Top Contributed Repo 🔝</h2></summary>
+  </ul>
+</div>
+
+<div align="center">
+  <img  align="center" src="https://github-contributor-stats.vercel.app/api?username=DaisyGeraldine&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 

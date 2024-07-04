@@ -5,13 +5,14 @@
   
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-      [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I+am+also+a+web+developer;And+I'm+Peruvian+pe)](https://git.io/typing-svg)
-  
-  <img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+<div id="user-content-toc" align="center">
+  <ul>
+    <li>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=68A6DAFF&size=32&lines=Hey!+It's+DaisyGeraldine!;I'm+a+Flutter+Developer...;I+am+also+a+web+developer;And+I'm+Peruvian" alt="Typing SVG">
+      </a>
+    </li>
   </ul>
-
 </div>
 
 <!--horizontal divider(gradiant)-->

@@ -7,11 +7,11 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm 🌼Daisy Geraldine</h1></summary>
+      [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I+am+also+a+web+developer;And+I'm+Peruvian+pe)](https://git.io/typing-svg)
+  
+  <img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </ul>
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Software Developer</h2></summary>
-  </ul>
+
 </div>
 
 <!--horizontal divider(gradiant)-->

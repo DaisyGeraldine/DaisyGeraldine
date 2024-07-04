@@ -23,8 +23,18 @@
   <img src="https://raw.githubusercontent.com/DaisyGeraldine/DaisyGeraldine/output/snake.svg" alt="Snake animation" />
 </div>
 
-# 💫 About Me:
-🌱 I’m currently learning Flutter<br><br>👨‍💻 All of my projects are available at https://github.com/DaisyGeraldine<br><br>📝 I regularly write articles on medium.com<br><br>💬 Ask me about MYSQL, Python, JavaScript and Angular.<br><br>📫 How to reach me dchipanalapa@gmail.com<br><br>⚡ Fun fact I love to see the sky every time I leave my house, if I see more colors, I am moved.
+<hr>
+
+<pre>
+💻 I am mainly a Flutter Developer
+📚 I am a graduate of Holberton's school
+📝 I regularly write articles on medium.com
+🛠️ Currently working on a StarUp
+🌟 Main language: Dart,Python 😁
+🚩 Interested in the development of multiplatform applications.
+⚡ Fun fact I love to see the sky every time I leave my house, if I see more colors, I am moved.
+</pre>
+<hr>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
